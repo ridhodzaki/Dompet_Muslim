@@ -1,7 +1,8 @@
 # dompetmuslim (dompetmuslim)
 
 ## AUTHOR BY
-```- Rudi Hartawan
+```
+- Rudi Hartawan
 - Miftarom Rahmawan A.S.
 - Ridho Dzaki S
 - M. Anugerah Rizky
